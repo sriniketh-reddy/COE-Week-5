@@ -1,0 +1,101 @@
+ShopID,ShopName,ShopType,Location,Revenue($),Employees
+1,QuickMart,Supermarket,New York,500000,25
+2,FancyCloth,Clothing,Los Angeles,150000,12
+3,TechWorld,Electronics,San Francisco,600000,30
+4,GreenGrocer,Supermarket,Boston,350000,20
+5,ShoePalace,Footwear,Chicago,200000,15
+6,BookWorm,Books,San Francisco,100000,8
+7,ToyLand,Toys,New York,180000,10
+8,FitStore,Fitness,Los Angeles,250000,18
+9,HomeStyle,Furniture,Boston,450000,22
+10,SmartPhonePlus,Electronics,San Francisco,800000,35
+11,PetHaven,Pet Supplies,Chicago,120000,7
+12,CoffeeCorner,Cafe,Los Angeles,100000,6
+13,TrendyWear,Clothing,San Francisco,300000,16
+14,GardenGoods,Home Improvement,Boston,200000,10
+15,GadgetMasters,Electronics,Chicago,500000,28
+16,ShopSmart,Supermarket,San Francisco,700000,40
+17,PartyTime,Toys,Los Angeles,130000,9
+18,LuxuryLuxe,Clothing,New York,400000,20
+19,SoundCity,Electronics,Boston,600000,25
+20,FashionHaven,Clothing,Chicago,350000,18
+21,BeautyBox,Beauty,San Francisco,150000,11
+22,OutdoorLife,Outdoor,New York,250000,14
+23,CleanLiving,Home Improvement,San Francisco,180000,9
+24,CyberWorld,Electronics,Los Angeles,500000,30
+25,TheGreenSpot,Supermarket,Boston,450000,22
+26,SneakerWave,Footwear,Chicago,220000,12
+27,TechDepot,Electronics,San Francisco,650000,33
+28,FreshBites,Cafe,New York,120000,8
+29,GardenEssentials,Home Improvement,Boston,300000,15
+30,StyleHouse,Clothing,San Francisco,400000,20
+31,PuppyParadise,Pet Supplies,Los Angeles,140000,9
+32,TechStore,Electronics,Chicago,500000,25
+33,TheCosmeticCo,Beauty,Boston,200000,10
+34,KidsWorld,Toys,San Francisco,150000,8
+35,SportMax,Fitness,New York,270000,18
+36,BookShelf,Books,Los Angeles,90000,5
+37,AutoZone,Automotive,Chicago,600000,40
+38,HomeKing,Furniture,San Francisco,550000,30
+39,TrendyLooks,Clothing,New York,300000,15
+40,FlowerPower,Flowers,Los Angeles,130000,7
+41,PetShopPlus,Pet Supplies,San Francisco,160000,10
+42,StylishLiving,Furniture,Boston,400000,20
+43,HappyFeet,Footwear,Chicago,250000,12
+44,FoodFiesta,Supermarket,San Francisco,650000,35
+45,LuxeCosmetics,Beauty,New York,250000,15
+46,FreshHarvest,Supermarket,Boston,550000,30
+47,LuxuryBoutique,Clothing,San Francisco,700000,28
+48,TechHub,Electronics,Chicago,550000,27
+49,LuxeFurniture,Furniture,Los Angeles,400000,18
+50,FitLife,Fitness,Boston,180000,10
+51,SmartTech,Electronics,New York,750000,40
+52,FancyDress,Clothing,San Francisco,350000,18
+53,TheBookNook,Books,Los Angeles,110000,6
+54,HealthyBites,Cafe,Boston,95000,7
+55,HappyTots,Toys,San Francisco,160000,10
+56,TheBeautyLab,Beauty,Chicago,170000,8
+57,MyGadget,Electronics,New York,600000,32
+58,ChicBoutique,Clothing,Los Angeles,450000,22
+59,GameArena,Toys,San Francisco,200000,11
+60,TechExpress,Electronics,Boston,800000,35
+61,CozyCorner,Cafe,San Francisco,130000,6
+62,PlushPets,Pet Supplies,New York,190000,11
+63,LuxuryTech,Electronics,Chicago,700000,30
+64,QuickFix,Supermarket,Los Angeles,550000,25
+65,ProSports,Fitness,San Francisco,230000,15
+66,FreshMart,Supermarket,New York,480000,27
+67,HomeCraft,Home Improvement,Chicago,350000,18
+68,ModernStyle,Furniture,Boston,600000,28
+69,TheToyChest,Toys,Los Angeles,140000,8
+70,PetHavenPlus,Pet Supplies,San Francisco,130000,7
+71,CoffeeBrew,Cafe,Chicago,105000,5
+72,TechPlus,Electronics,Los Angeles,850000,40
+73,TrendyPets,Pet Supplies,Boston,110000,6
+74,FreshTaste,Cafe,San Francisco,90000,5
+75,ShinyShoes,Footwear,New York,180000,9
+76,BookWorld,Books,Chicago,95000,5
+77,AutoShop,Automotive,San Francisco,600000,35
+78,SweetGarden,Flowers,Los Angeles,120000,7
+79,GlitzGlam,Beauty,Chicago,180000,10
+80,SparkleTots,Toys,San Francisco,150000,8
+81,TechTower,Electronics,Los Angeles,700000,32
+82,CozyHome,Furniture,New York,500000,24
+83,BookHaven,Books,Boston,110000,6
+84,SunshineMart,Supermarket,San Francisco,460000,22
+85,LivingRoom,Home Improvement,New York,330000,16
+86,TheToyStore,Toys,Chicago,130000,7
+87,HappyFeetPlus,Footwear,San Francisco,200000,12
+88,SportGear,Fitness,Los Angeles,240000,15
+89,TrendyFashions,Clothing,San Francisco,450000,20
+90,SmartElectronics,Electronics,New York,650000,32
+91,LuxePets,Pet Supplies,Boston,150000,8
+92,EliteFurniture,Furniture,San Francisco,800000,35
+93,AllTech,Electronics,Chicago,700000,30
+94,QuickGrocer,Supermarket,Boston,580000,29
+95,PowerFit,Fitness,New York,220000,12
+96,TechHaven,Electronics,San Francisco,550000,27
+97,BookDepot,Books,Los Angeles,120000,7
+98,PerfectFit,Fitness,San Francisco,210000,13
+99,NextLevel,Clothing,Chicago,330000,15
+100,TechWave,Electronics,New York,760000,38
