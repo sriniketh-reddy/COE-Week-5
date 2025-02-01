@@ -1,0 +1,11 @@
+id,first_name,last_name,email,hire_date,salary
+11,David,Lee,david.lee@example.com,2020-05-20,62000.00
+12,Olivia,Garcia,olivia.garcia@example.com,2019-02-18,67000.00
+13,Michael,Wilson,michael.wilson@example.com,2021-08-30,58000.00
+14,Susan,Lopez,susan.lopez@example.com,2022-01-10,54000.00
+15,James,Martinez,james.martinez@example.com,2021-11-25,60000.00
+16,Lily,Anderson,lily.anderson@example.com,2020-12-01,55000.00
+17,Matthew,Thomas,matthew.thomas@example.com,2018-09-09,63000.00
+18,Chloe,Jackson,chloe.jackson@example.com,2019-07-15,59000.00
+19,Lucas,White,lucas.white@example.com,2021-04-17,56000.00
+20,Emma,King,emma.king@example.com,2022-03-01,65000.00
